@@ -18,3 +18,11 @@ This project showcases a dynamic and interactive dashboard built using Looker St
 - User Category
 - Monthly Spend Range
 - Order Time
+
+## 📁 Files Included
+- cleaned_final_food_survey.csv
+- clean_food_delivery_dataset.csv
+- Final_Dataset.csv
+- Food_Delivery_Analysis_Dashboard_Sai.pdf
+- Data_Studio_Documentation.docx
+- Dashboard screenshots
