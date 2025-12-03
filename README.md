@@ -28,7 +28,7 @@ This project showcases a dynamic and interactive dashboard built using Looker St
 - Dashboard screenshots
 
 ## 📸 Dashboard Preview
- <img width="1086" height="656" alt="Screenshot 2025-09-07 133335" src="https://github.com/user-attachments/assets/f610a932-2665-4a61-bcc4-43522bd2ecca" />
+ <img width="1086" height="656" alt="Screenshot 2025-09-07 133335" src="Screenshot 2025-12-03 132352.png" />
 
 ## 🔗 Live Dashboard
 https://lookerstudio.google.com/s/rf2wpos7iaI
