@@ -26,3 +26,20 @@ This project showcases a dynamic and interactive dashboard built using Looker St
 - Food_Delivery_Analysis_Dashboard_Sai.pdf
 - Data_Studio_Documentation.docx
 - Dashboard screenshots
+
+## 📸 Dashboard Preview
+
+## 🔗 Live Dashboard
+https://lookerstudio.google.com/s/rf2wpos7iaI
+
+## 🧠 Tools Used
+- Google Sheets
+- Excel
+- Google Colab
+- Looker Studio
+
+## 👨‍💻 Author
+**Sai Santosh Mukadam**
+BCA Final Year | ADYPU Pune
+Data Analyst Aspirant
+
