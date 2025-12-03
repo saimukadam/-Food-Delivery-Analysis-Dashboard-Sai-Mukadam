@@ -1,4 +1,5 @@
 # 🍔 Food Delivery Analysis Dashboard
+
 This project showcases a dynamic and interactive dashboard built using Looker Studio to analyze food delivery user behaviour, spending patterns, order frequency, and lifestyle impact across various demographics and app preferences.
 --
 ## 📊 Metrics
